@@ -120,9 +120,21 @@ console.log("FAIL");
 //1-FOR
 //2-WHILE
 //3-DO WHILE
+console.log("For");
+for(let i=1;i<=5;i++){
+    console.log(i)
+}
+
+console.log("While");
 let I=1;
 while(I<=5){
     console.log(I);
     I++;
 }
 
+console.log("Do-while");
+let j=1;
+do{
+    console.log(j);
+    j++;}
+while(j<=5)
