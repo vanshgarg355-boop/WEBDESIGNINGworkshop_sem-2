@@ -10,25 +10,27 @@ body {
     padding: 20px;
     background: white;
     border-radius: 10px;
-    box-shadow: 0 0 10px gray;
+    box-shadow: 0 0 80px rgb(124, 127, 124);
 }
 
 button {
     padding: 8px 12px;
     margin: 5px;
-    background-color: #83aedc;
+    background-color: #c58b8b;
     color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    padding: 15px;
+    width: 200px;
 }
 
-button:hover {
+ button:hover {
     background-color: #0056b3;
-    color: white;
+    color: white; 
 }
 
 input {
-    padding: 8px;
+    padding: 20px;
        width: 250px;
 }
