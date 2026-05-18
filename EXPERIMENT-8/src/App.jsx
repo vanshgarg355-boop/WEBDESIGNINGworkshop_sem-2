@@ -23,6 +23,7 @@ function Counter() {
       <button onClick={decrement}>Decrement(-)</button>
       <button onClick={reset}>Reset To 0</button>
     </div>
+    
   );
 }
 
